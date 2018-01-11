@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteMove>
+    <ProfileToken>BAO</ProfileToken>
+    <Position>
+        <PanTilt x="10" y="9"></PanTilt>
+        <Zoom x="2"></Zoom>
+    </Position>
+</AbsoluteMove>
