@@ -1,0 +1,11 @@
+
+on Ubuntu only
+import the Northwind database
+in terminal
+
+>sh mongo-import.sh
+
+show all collections
+
+>use Northwind
+>db.getCollectonNames()
