@@ -1,3 +1,4 @@
 # ADB2017Assignment3
-#Type your name here
-#Other info
+
+Name: Dang Vinh Bao
+ID: USTHBI6-017
