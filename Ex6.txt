@@ -4,8 +4,8 @@
 		ARTIST: "Gary Moore",
 		COUNTRY: "UK",
 		COMPANY: "Virgin records",
-		PRICE: "10.20",
-		YEAR: "1990",
+		PRICE: 10.20,
+		YEAR: 1990,
 		GENRES:[
 			"Blue",
 			"Country"
